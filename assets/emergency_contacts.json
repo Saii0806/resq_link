@@ -1,0 +1,686 @@
+{
+  "Ariyalur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Chengalpattu": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Chennai": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Coimbatore": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Cuddalore": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Dharmapuri": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Dindigul": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Erode": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Kallakurichi": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Kanchipuram": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Kanyakumari": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Karur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Krishnagiri": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Madurai": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Mayiladuthurai": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Nagapattinam": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Namakkal": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Nilgiris": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Perambalur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Pudukkottai": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Ramanathapuram": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Ranipet": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Salem": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Sivaganga": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tenkasi": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Thanjavur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Theni": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Thoothukudi": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tiruchirappalli": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tirunelveli": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tirupathur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tiruppur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tiruvallur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tiruvannamalai": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Tiruvarur": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Vellore": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Viluppuram": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ],
+  "Virudhunagar": [
+    {
+      "service": "Police",
+      "contact": "100"
+    },
+    {
+      "service": "Fire",
+      "contact": "101"
+    },
+    {
+      "service": "Ambulance",
+      "contact": "108"
+    },
+    {
+      "service": "Disaster Management",
+      "contact": "1070"
+    }
+  ]
+}

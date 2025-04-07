@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "775133440619",
+      "project_id": "resq-link",
+      "storage_bucket": "resq-link.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:775133440619:android:d0cfb96964ced043b41f2e",
+          "android_client_info": {
+            "package_name": "com.example.resq_link"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDl_NTRW9nRotEu0fUxHf1CEY5JS_3z0Us"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
